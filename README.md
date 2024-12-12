@@ -98,4 +98,4 @@ public partial class MainWindow : Window
 ### Path too long exception
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
-For more details, refer to the KB on [How-to-Add-Annotation-in-Axis-Label-Click-in-WPF-SfChart]().
+For more details, refer to the KB on [How-to-Add-Annotation-in-Axis-Label-Click-in-WPF-SfChart](https://support.syncfusion.com/kb/article/18485/how-to-add-annotation-in-axis-label-click-in-wpf-sfchart).
