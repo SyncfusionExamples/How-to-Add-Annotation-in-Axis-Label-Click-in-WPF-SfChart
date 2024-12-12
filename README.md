@@ -92,8 +92,7 @@ public partial class MainWindow : Window
 **Step 4:** After deploying the application, click on the axis label as shown in the output below; the annotations will be displayed, showing the values corresponding to the label.
 
 **Output:**
- 
-
+ ![Presentation1](https://github.com/user-attachments/assets/2cfe0fe0-3e3c-42b1-acca-1ba8b3fab185)
 
 ## Troubleshooting
 ### Path too long exception
